@@ -1,4 +1,4 @@
-# IBM AI Engineering
+# IBM Courses
 
 Coursework and projects from IBM. This repository showcases the final projects of these courses. 
 
